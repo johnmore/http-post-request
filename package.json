@@ -1,6 +1,6 @@
 {
   "name": "http-post-request",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Issue an HTTP Post Request",
   "main": "index.js",
   "author": "Run Dexter, Inc",
