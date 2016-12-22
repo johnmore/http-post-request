@@ -1,9 +1,9 @@
 {
-  "name": "http-post-request",
-  "version": "1.0.1",
-  "description": "Issue an HTTP Post Request",
+  "name": "http-PUT-request",
+  "version": "1.0.0",
+  "description": "Issue an HTTP PUT Request",
   "main": "index.js",
-  "author": "Run Dexter, Inc",
+  "author": "LIM9",
   "license": "MIT",
   "private": true,
   "dependencies": {
@@ -13,6 +13,6 @@
   }, 
   "repository" : {
     "type" : "git",
-    "url"  : "https://github.com/rundexter/http-get-request"
+    "url"  : "https://github.com/johnmore/http-post-request.git"
   }
 }

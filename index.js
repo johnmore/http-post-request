@@ -23,7 +23,7 @@ module.exports = {
            //turn a superagent request into a q promsise
            promises.push(
                promisify(
-                 agent.post(url).type('json').send(parameters).set(headers), [ 'body', 'statusCode', 'text' ] 
+                 agent.put(url).type('json').send(parameters).set(headers), [ 'body', 'statusCode', 'text' ] 
                )
            );
        });

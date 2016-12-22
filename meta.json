@@ -23,5 +23,5 @@
         "id" : "statusCode",
         "title" : "Status Code"
     }],
-    "title": "HTTP Post Request" /* Required.A display name for the module */
+    "title": "HTTP PUT Request" /* Required.A display name for the module */
 }
